@@ -1,4 +1,4 @@
-# Formatting
+# Formatting in GitHub
 Headings allow you to partition your work cleanly. Each come with a light underline across the entire paragraph for a more clear visual hierarchy. For now this is a lot of copying and pasting examples until I get around to making my own examples.
 
 Helpful resources
