@@ -4,6 +4,7 @@ Headings allow you to partition your work cleanly. Each come with a light underl
 Helpful resources
  - https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
  - https://guides.github.com/features/mastering-markdown/
+ - https://www.markdownguide.org/basic-syntax/ & https://www.markdownguide.org/extended-syntax/
 
 ## Text
 There are many things you can do with text. Styling your documents will make them easier to read. Formatting comes in extra handy when you have lots of ideas and want to organize your thoughts in an appealling way.
