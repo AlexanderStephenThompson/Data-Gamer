@@ -23,7 +23,7 @@ Using the br tag</br>
 *Italic* needs single astrix.  
 ~~Strikethrough~~ needs double tildas.  
 
-### Code
+### Code Blocks
 
 ``` python
 print("This is styled code! Just specify the language at the start")
