@@ -1,3 +1,20 @@
+<!-- 
+Extra markdown resources
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/Ileriayo/markdown-badges
+https://shields.io/
+https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/
+https://www.markdownguide.org/cheat-sheet/
+https://github.com/tchapi/markdown-cheatsheet
+https://github.com/anuraghazra/github-readme-stats
+https://linuxize.com/post/gitignore-ignoring-files-in-git/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/extended-syntax/
+
+-->
+
 # Formatting in GitHub
 Headings allow you to partition your work cleanly. Each come with a light underline across the entire paragraph for a more clear visual hierarchy. For now this is a lot of copying and pasting examples until I get around to making my own examples.
 
