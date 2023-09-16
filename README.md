@@ -1,7 +1,7 @@
-# Programming Challenges
+# Algorithm Challenges
 
-## Algorithms 
+## Easy
 
-## Blender
+## Medium
 
-## Unity
+## Hard
